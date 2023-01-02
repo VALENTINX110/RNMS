@@ -7,8 +7,12 @@ After that, run the command `/reload`. A huge message will pop up on chat with a
 
 # Instructions
 To start run the command `/trigger RNMS.switch set 1`!
+
 To stop run the command `/trigger RNMS.switch set -1`!
-To customize the time between each spawn, run the command `/scoreboard players set #time_limit RNMS.time [time_amount]` and set the time in seconds multiplied by 20 in the filed marked by `[time_amount]`!
+
+To customize the time between each spawn, run the command `/scoreboard players set #time_limit RNMS.time [time_amount]` and set the time in seconds multiplied by 20 in 
+the filed marked by `[time_amount]`!
+
 To uninstall the datapack run the command `/function rnms:uninstall`!
 
 Have fun! :D
